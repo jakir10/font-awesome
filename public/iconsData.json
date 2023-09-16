@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Folder_open_alt_font_awesome.svg/512px-Folder_open_alt_font_awesome.svg.png",
+    "name": "icon1",
+    "type": "classic",
+    "style": "solid",
+    "category": "alert"
+  },
+  {
+    "id": 2,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FfeuQqqASgAs3nwJiAe-FWwmO5dhD-w0uA&usqp=CAU",
+    "name": "icon2",
+    "type": "classic",
+    "style": "solid",
+    "category": "alert"
+  },
+  {
+    "id": 3,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon3",
+    "type": "sharp",
+    "style": "regular",
+    "category": "education"
+  },
+  {
+    "id": 4,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon4",
+    "type": "sharp",
+    "style": "regular",
+    "category": "education"
+  },
+  {
+    "id": 5,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon5",
+    "type": "brands",
+    "style": "light",
+    "category": "time"
+  },
+  {
+    "id": 6,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon6",
+    "type": "brands",
+    "style": "light",
+    "category": "time"
+  },
+  {
+    "id": 7,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon7",
+    "type": "free",
+    "style": "thin",
+    "category": "social"
+  }
+  
+]
