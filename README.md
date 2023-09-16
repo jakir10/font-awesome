@@ -1,8 +1,26 @@
 # Font Awesome Replicate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is simple Replica of Font Awesome Site.
 
-Currently, two official plugins are available:
+## Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Font Awesome Replica](https://font-awesome-replica.netlify.app/search)
+
+## Source Code Link
+
+[Font Awesome Replica](https://github.com/jakir10/font-awesome)
+
+### Website Fuctionality
+
+- User can Filter Icon
+- Multi Filter Option
+- User Can choice style categories
+
+### List of Technology & library
+
+- React js
+- Vite
+- ES6 javascript
+- Tailwind css
+- Daisy UI Component
+- React Router
