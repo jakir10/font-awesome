@@ -54,6 +54,15 @@
     "type": "free",
     "style": "thin",
     "category": "social"
+  },
+  {
+    "id": 8,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon8",
+    "type": "free",
+    "style": "thin",
+    "category": "design",
+    "featured": "sponsored"
   }
   
 ]

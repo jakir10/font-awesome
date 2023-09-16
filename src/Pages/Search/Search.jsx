@@ -2,9 +2,9 @@ import Icons from "./Icons/Icons";
 
 const Search = () => {
   return (
-    <div className="max-w-screen-xl mx-auto">
+    <div className=" mx-auto">
       <h1>This is Search Page</h1>
-      <div className="flex space-x-10 font-semibold  mt-6">
+      {/* <div className="flex space-x-10 font-semibold  mt-6">
         <a className="link link-hover group hover:text-sky-500 hover:no-underline">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -40,7 +40,7 @@ const Search = () => {
         <a className="link link-hover hover:text-sky-500 hover:no-underline">
           Free
         </a>
-      </div>
+      </div> */}
       <Icons></Icons>
     </div>
   );
