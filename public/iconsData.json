@@ -60,9 +60,104 @@
     "picture": "http://placehold.it/32x32",
     "name": "icon8",
     "type": "free",
+    "style": "solid",
+    "category": "design"
+  },
+  {
+    "id": 9,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon9",
+    "type": "free",
     "style": "thin",
-    "category": "design",
-    "featured": "sponsored"
+    "category": "design"
+  },
+  {
+    "id": 10,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon10",
+    "type": "free",
+    "style": "thin",
+    "category": "design"
+  },
+  {
+    "id": 11,
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Folder_open_alt_font_awesome.svg/512px-Folder_open_alt_font_awesome.svg.png",
+    "name": "icon11",
+    "type": "classic",
+    "style": "solid",
+    "category": "nature"
+  },
+  {
+    "id": 12,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FfeuQqqASgAs3nwJiAe-FWwmO5dhD-w0uA&usqp=CAU",
+    "name": "icon12",
+    "type": "classic",
+    "style": "solid",
+    "category": "moving"
+  },
+  {
+    "id": 13,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon13",
+    "type": "sharp",
+    "style": "regular",
+    "category": "business"
+  },
+  {
+    "id": 14,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon14",
+    "type": "sharp",
+    "style": "regular",
+    "category": "business"
+  },
+  {
+    "id": 15,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon15",
+    "type": "brands",
+    "style": "duotone",
+    "category": "gaming"
+  },
+  {
+    "id": 16,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon16",
+    "type": "brands",
+    "style": "duotone",
+    "category": "gaming"
+  },
+  {
+    "id": 17,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon17",
+    "type": "free",
+    "style": "thin",
+    "category": "coding"
+  },
+  {
+    "id": 18,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon18",
+    "type": "free",
+    "style": "duotone",
+    "category": "coding"
+  },
+  {
+    "id": 19,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon19",
+    "type": "free",
+    "style": "thin",
+    "category": "emoji"
+  },
+  {
+    "id": 20,
+    "picture": "http://placehold.it/32x32",
+    "name": "icon20",
+    "type": "free",
+    "style": "thin",
+    "category": "emoji"
   }
   
 ]

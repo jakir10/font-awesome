@@ -20,8 +20,8 @@ const IconCard = ({ icon }) => {
               ✕
             </button>
           </form>
-          <h3 className="font-bold text-lg">Hello!</h3>
-          <p className="py-4">Press ESC key or click on ✕ button to close</p>
+          <h3 className="font-bold text-lg">{name}</h3>
+          <p className="py-4">Coming soon...</p>
         </div>
       </dialog>
     </div>

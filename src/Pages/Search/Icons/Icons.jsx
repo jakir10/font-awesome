@@ -115,7 +115,7 @@ const Icons = () => {
   return (
     <>
       {/* top icon section */}
-      <div className="flex space-x-10 pl-24 font-semibold mt-6">
+      <div className="flex space-x-10 pl-24 ml-20 font-semibold mt-6">
         {uniqueType.map((type) => (
           <a
             key={type}
@@ -133,7 +133,7 @@ const Icons = () => {
         ))}
       </div>
 
-      <div className="flex pl-24 bg-gray-100">
+      <div className="flex pl-32 bg-gray-100">
         {/* Aside Section */}
         <aside className="w-72 bg-gray-100 p-4">
           <div className="mb-4">
@@ -160,28 +160,33 @@ const Icons = () => {
           <div>
             <h2 className="text-lg font-semibold mb-2">Categories</h2>
             <div>
-              {uniqueCategories.map((category) => (
-                <label
-                  key={category}
-                  className={`block cursor-pointer ${
-                    filters.categories.includes(category) && "text-sky-500"
-                  }`}
-                >
-                  <input
-                    type="checkbox"
-                    value={category}
-                    checked={filters.categories.includes(category)}
-                    onChange={() => handleFilterChange("categories", category)}
-                  />
-                  {category}
-                </label>
-              ))}
+              {uniqueCategories
+                .slice() // Create a copy of the array
+                .sort() // Sort the categories alphabetically
+                .map((category) => (
+                  <label
+                    key={category}
+                    className={`block cursor-pointer ${
+                      filters.categories.includes(category) && "text-sky-500"
+                    }`}
+                  >
+                    <input
+                      type="checkbox"
+                      value={category}
+                      checked={filters.categories.includes(category)}
+                      onChange={() =>
+                        handleFilterChange("categories", category)
+                      }
+                    />
+                    {category}
+                  </label>
+                ))}
             </div>
           </div>
         </aside>
 
         {/* Main Content */}
-        <div className="bg bg-base-200 p-4 flex-grow">
+        <div className="bg bg-base-200 p-4 mr-32 flex-grow">
           <p className="my-8 text-lg font-semibold text-sky-900">
             {filteredIcons.length} Icons
           </p>
