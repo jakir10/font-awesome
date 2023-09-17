@@ -4,17 +4,18 @@ This is simple Replica of Font Awesome Site.
 
 ## Live Site
 
-[Font Awesome Replica](https://font-awesome-replica.netlify.app/search)
+[Font Awesome Replica](https://font-awesome-theta.vercel.app/)
+[Font Awesome Replica](https://font-awesome-replica.netlify.app)
 
 ## Source Code Link
 
 [Font Awesome Replica](https://github.com/jakir10/font-awesome)
 
-### Website Fuctionality
+### Website Functionality
 
 - User can Filter Icon
 - Multi Filter Option
-- User Can choice style categories
+- User Can choice style & categories
 
 ### List of Technology & library
 
