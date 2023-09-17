@@ -5,6 +5,7 @@ This is simple Replica of Font Awesome Site.
 ## Live Site
 
 [Font Awesome Replica](https://font-awesome-theta.vercel.app/)
+
 [Font Awesome Replica](https://font-awesome-replica.netlify.app)
 
 ## Source Code Link
